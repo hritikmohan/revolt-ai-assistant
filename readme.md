@@ -2,7 +2,7 @@
 
 A real-time, conversational AI assistant that acts as a knowledgeable guide for Revolt Motors. This project showcases a low-latency, voice-first experience with natural interruption handling, built with Node.js and the Google Gemini Live API.
 
-*(**Note**: You should replace the placeholder URL above with a real screenshot of your application's landing page.)*
+![Revolt AI Assistant Landing Page](./asset/image.png)
 
 ## ✨ Features
 
